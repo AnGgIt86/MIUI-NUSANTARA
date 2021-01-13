@@ -2,7 +2,7 @@
 <ROM>
     <RomName>MIUI NFS Projects</RomName>
     <VersionName>Xiaomi.eu 21.1.16</VersionName>
-    <VersionNumber type="integer">12000021</VersionNumber>
+    <VersionNumber type="integer">210121</VersionNumber>
     <DirectUrl nil="true"/>
     <HttpUrl>https://semawur.com/NTP1On</HttpUrl>
     <Android>10.0</Android>
