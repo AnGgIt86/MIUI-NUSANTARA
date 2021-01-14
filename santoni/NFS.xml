@@ -12,8 +12,8 @@
     <WebsiteURL>http://t.me/NFSProjects</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
     <Changelog>###Changelog Devices
-    * Remove wfdnative android.hidl.base@1.0 shims
-    * Update QMI/Radio blobs from LA.UM.8.6.2.r1-08600-89xx.0
+    • Remove wfdnative android.hidl.base@1.0 shims
+    • Update QMI/Radio blobs from LA.UM.8.6.2.r1-08600-89xx.0
     * Update blobs from LA.UM.8.6.2.r1-08600-89xx.0
     * thermal: Change values to adapt Rosy
     * Clean unneeded files and move thermal configs from vendor
