@@ -2,26 +2,16 @@
 <ROM>
     <RomName>MIUI NFS Projects</RomName>
     <VersionName>Xiaomi.eu 21.1.6</VersionName>
-    <VersionNumber type="integer">210106</VersionNumber>
+    <VersionNumber type="integer">194031</VersionNumber>
     <DirectUrl nil="true"/>
-    <HttpUrl>https://semawur.com/NTP1On</HttpUrl>
+    <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/OTA_21.1.6.zip</HttpUrl>
     <Android>10.0</Android>
-    <CheckMD5>4ff1c4e1700d81fd4a39e062b1c67221</CheckMD5>
+    <CheckMD5>5a0be597306ec6c3c7658016e5c41c82</CheckMD5>
     <FileSize type="integer">22791324</FileSize>
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/NFSProjects</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
     <Changelog>###Changelog Devices
-    * Remove wfdnative android.hidl.base@1.0 shims
-    * Update QMI/Radio blobs from LA.UM.8.6.2.r1-08600-89xx.0
-    * Update blobs from LA.UM.8.6.2.r1-08600-89xx.0
-    * thermal: Change values to adapt Rosy
-    * Clean unneeded files and move thermal configs from vendor
-    * Move libsdm-disp-apis to system
-    * Add Dolby blobs
-    * Add Dirac
-    * Update perf bost config
-    * Update Qcom post-bost
-    * Update security from violet 
-    * Add NFS part</Changelog>
+    * Fix wakeup Fingerprint
+    * Fix finger shooter in Camera</Changelog>
 </ROM>
