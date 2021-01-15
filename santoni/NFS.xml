@@ -3,7 +3,7 @@
     <RomName>MIUI NFS Projects</RomName>
     <VersionName>OTA Update 21.1.6</VersionName>
     <VersionNumber type="integer">210107</VersionNumber>
-    <DirectUrl nil="true"/>
+    <DirectUrl nil="false"/>
     <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/OTA_21.1.6.zip</HttpUrl>
     <Android>10.0</Android>
     <CheckMD5>5a0be597306ec6c3c7658016e5c41c82</CheckMD5>
