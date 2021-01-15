@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>MIUI NFS Projects</RomName>
-    <VersionName>Xiaomi.eu 21.1.6</VersionName>
+    <VersionName>OTA Update 21.1.6</VersionName>
     <VersionNumber type="integer">194031</VersionNumber>
     <DirectUrl nil="true"/>
     <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/OTA_21.1.6.zip</HttpUrl>
