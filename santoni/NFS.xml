@@ -2,12 +2,12 @@
 <ROM>
     <RomName>MIUI NFS Projects</RomName>
     <VersionName>OTA Update 21.1.6</VersionName>
-    <VersionNumber type="integer">194031</VersionNumber>
+    <VersionNumber type="integer">210107</VersionNumber>
     <DirectUrl nil="true"/>
     <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/OTA_21.1.6.zip</HttpUrl>
     <Android>10.0</Android>
     <CheckMD5>5a0be597306ec6c3c7658016e5c41c82</CheckMD5>
-    <FileSize type="integer">22791324</FileSize>
+    <FileSize type="integer">194031</FileSize>
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/NFSProjects</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
