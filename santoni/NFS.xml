@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>MIUI NFS Projects</RomName>
-    <VersionName>OTA Update 21.1.6</VersionName>
-    <VersionNumber type="integer">210107</VersionNumber>
+    <VersionName>Latest OTA Update 21.1.6</VersionName>
+    <VersionNumber type="integer">210108</VersionNumber>
     <DirectUrl nil="true"/>
-    <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/OTA_21.1.6.zip</HttpUrl>
+    <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/Latest_Update_OTA_21.1.6.zip</HttpUrl>
     <Android>10.0</Android>
-    <CheckMD5>5a0be597306ec6c3c7658016e5c41c82</CheckMD5>
-    <FileSize type="integer">194031</FileSize>
+    <CheckMD5>48fe4fc68eb0cbfcd8f212d264c943ee</CheckMD5>
+    <FileSize type="integer">9126167</FileSize>
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/NFSProjects</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
     <Changelog>###Changelog Devices
     * Fix wakeup Fingerprint
-    * Fix finger shooter in Camera</Changelog>
+    * Fix finger shooter in Camera
+    * Fix Audio Calling
+    * Optimized Performa</Changelog>
 </ROM>
