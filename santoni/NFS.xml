@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>MIUI NFS Projects</RomName>
-    <VersionName>Latest OTA Update 21.1.6</VersionName>
+    <VersionName>Xiaomu.eu 21.1.13</VersionName>
     <VersionNumber type="integer">210108</VersionNumber>
     <DirectUrl nil="true"/>
     <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/Latest_Update_OTA_21.1.6.zip</HttpUrl>
@@ -11,9 +11,6 @@
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/NFSProjects</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
-    <Changelog>###Changelog Devices
-    * Fix wakeup Fingerprint
-    * Fix finger shooter in Camera
-    * Fix Audio Calling
-    * Optimized Performance</Changelog>
+    <Changelog>###Xiaomi.eu 21.1.13 Release in 3 February
+    </Changelog>
 </ROM>
