@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>MIUI NFS Projects</RomName>
-    <VersionName>Xiaomu.eu 21.1.13</VersionName>
-    <VersionNumber type="integer">210113</VersionNumber>
+    <VersionName>UPDATE OTA Xiaomu.eu 21.1.13</VersionName>
+    <VersionNumber type="integer">210114</VersionNumber>
     <DirectUrl nil="true"/>
-    <HttpUrl>https://semawur.com/FvGRBQ8FtB</HttpUrl>
+    <HttpUrl>https://eunhamirror.vinc.workers.dev/0:/Update_OTA_21.1.13.zip</HttpUrl>
     <Android>10.0</Android>
-    <CheckMD5>89e9ec4aab76dd17e93bb98357414f9e</CheckMD5>
-    <FileSize type="integer">1612308165</FileSize>
+    <CheckMD5>d7176e532d5a4a321f6aa79f712e44fb</CheckMD5>
+    <FileSize type="integer">5611131</FileSize>
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/NFSProjects</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
-    <Changelog>###Xiaomi.eu 21.1.13 Redmi 5
+    <Changelog>###OTA 21.1.13
+    * Fix Lag
+    * Fix slow opening apps
+    * And more...
     </Changelog>
 </ROM>
