@@ -42,7 +42,7 @@
     - Update blobs from LA.UM.8.6.2.r1-08600-89xx.0
     - Move libsdm-disp-apis to system
     - Add Dolby and Dirac MIsound blobs
-    - Optimized AOD after 10sec
+    - Optimized AOD auto off after 10sec
     - improve performance and Ram management
     </Changelog>
 </ROM>
