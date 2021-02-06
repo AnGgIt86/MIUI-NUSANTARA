@@ -29,5 +29,15 @@
     - Fix - Unable to delete locations by long-tapping them and clicking the "Delete" button
     ###WARNING FOR Mi 9 SE:
     - After Android 11 update reboot to recovery causes reboot to Fastboot mode - TWRP disappears after update. To do update, boot your TWRP from fastboot mode, flash ROM and reboot to system. This update is suspended for Redmi Note 9 4G/Redmi 9T. It's expected to get MIUI 12.5 update on mid-or-late January 2021, with Android 11 update accordingly.
+
+
+    ###Changelog devices
+    - Remove wfdnative android.hidl.base@1.0 shims
+    - Update QMI/Radio blobs from LA.UM.8.6.2.r1-08600-89xx.0
+    - Update blobs from LA.UM.8.6.2.r1-08600-89xx.0
+    - Move libsdm-disp-apis to system
+    - Add Dolby & Dirac MIsound blobs
+    - Optimized AOD after 10sec
+    - improve performance & Ram management
     </Changelog>
 </ROM>
