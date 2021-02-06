@@ -36,8 +36,8 @@
     - Update QMI/Radio blobs from LA.UM.8.6.2.r1-08600-89xx.0
     - Update blobs from LA.UM.8.6.2.r1-08600-89xx.0
     - Move libsdm-disp-apis to system
-    - Add Dolby & Dirac MIsound blobs
+    - Add Dolby and Dirac MIsound blobs
     - Optimized AOD after 10sec
-    - improve performance & Ram management
+    - improve performance and Ram management
     </Changelog>
 </ROM>
