@@ -12,11 +12,11 @@
     <WebsiteURL>http://t.me/NFSProjects</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
     <Changelog>###OTA 21.1.20
-    # System
+    ### System
     - Optimization - Restored Widevine L1 support [Redmi K20/Mi 9T, Mi CC9 Pro/Mi Note 10/Pro]
 Fix - Device was lagging with enabled Voice Match [Mi 9, Mi 9 Pro 5G, Mi 9T Pro]
 Fix - Provision app crashed during setup with an inserted SIM card
-    # Control center
+    ### Control center
     - Optimization - Brightness control is appearing at the bottom of the toggles list now even if it is expanded [Android 11 devices]
 Optimization - Restored pull-down gesture on the right side of Notification shade to open Control center over the Notification shade
 Fix - A Chinese toggle was showing at the bottom of the toggles list [Some devices]
